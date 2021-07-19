@@ -29,20 +29,20 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 ### Task 1: Project Setup
 
 #### Project Cloning
-* [ ] Fork and clone this repository.
-* [ ] Create a new working branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [x ] Fork and clone this repository.
+* [ x] Create a new working branch: git checkout -b `<firstName-lastName>`.
+* [x ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [ x] Push commits: git push origin `<firstName-lastName>`.
 
 #### Server Code Setup
-* [ ] Run `npm install` to download dependencies for the server.
-* [ ] Run the server using `npm start`.
-*[ ] Open a new browser tab and navigate to `http://localhost:3333/plants` - if you see a JSON object with plants data, then you know the server is running 👍
+* [x ] Run `npm install` to download dependencies for the server.
+* [x ] Run the server using `npm start`.
+*[x ] Open a new browser tab and navigate to `http://localhost:3333/plants` - if you see a JSON object with plants data, then you know the server is running 👍
 
 #### Client Code Setup
-- [ ] In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
-- [ ] Still inside the `client` folder run `npm run start` to run the client application.
-- [ ] Your browser should open up the project as normal
+- [] In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
+- [] Still inside the `client` folder run `npm run start` to run the client application.
+- [] Your browser should open up the project as normal
 
 #### Test Runner Setup
 - [ ] In the final terminal window, make sure you are in the `client` folder still
